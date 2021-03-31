@@ -6,4 +6,6 @@
 * Thank you for your time!
 * The guessinggame.sh contains the following number of lines: 21
 
-* The date is: Thu Apr  1 01:31:06 +04 2021
+* The date is: Thu Apr  1 01:49:27 +04 2021
+
+* https://nilsa-f.github.io/my_guessing_game/

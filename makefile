@@ -9,3 +9,4 @@ Readme.md:
 	grep -c '' guessinggame.sh >> Readme.md
 	echo -n "\n* The date is: " >> Readme.md
 	date >> Readme.md
+	echo -n "\n* https://nilsa-f.github.io/my_guessing_game/" >> Readme.md

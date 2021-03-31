@@ -6,5 +6,6 @@
  Thank you for your time!
 #-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 
-**The guessinggame.sh contains the following number of lines:
-**The date is:Wed Mar 31 21:41:47 +04 2021
+**The guessinggame.sh contains the following number of lines:21
+
+**The date is:Wed Mar 31 23:39:23 +04 2021

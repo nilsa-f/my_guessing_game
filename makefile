@@ -8,5 +8,6 @@ Readme.md:
 	echo " Thank you for your time!" >> Readme.md
 	echo "#-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*" >> Readme.md
 	echo -n "\n**The guessinggame.sh contains the following number of lines:" >> Readme.md
+	grep -c '' guessinggame.sh >> Readme.md
 	echo -n "\n**The date is:" >> Readme.md
 	date >> Readme.md
